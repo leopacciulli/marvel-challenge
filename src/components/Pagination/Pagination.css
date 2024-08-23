@@ -1,0 +1,23 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+}
+
+.pagination button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.pagination span {
+  margin: 0 16px;
+}
+
+@media (max-width: 600px) {
+  .pagination {
+    button {
+      width: 120px;
+    }
+  }
+}

@@ -1,0 +1,56 @@
+.character-card {
+  background-color: #202020;
+  cursor: pointer;
+  transition: color 0.3s;
+  border: 1px solid #f2f2f2;
+  border-radius: 0px 0px 12px 0px;
+}
+
+.character-card:focus img,
+.character-card:hover img {
+  transform: scale3d(1.2, 1.2, 1);
+}
+
+.character-image-wrapper:after {
+  height: 4px;
+  content: '';
+  background-color: #e62429;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.character-image {
+  transition: all 0.2s linear;
+  height: 100%;
+  width: 100%;
+}
+
+.character-image-wrapper {
+  height: 210px;
+  position: relative;
+  overflow: hidden;
+}
+
+.character-content {
+  padding: 16px 24px 16px 20px;
+  height: 120px;
+  position: relative;
+}
+
+.character-content p {
+  color: #fff;
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+.character-footer span {
+  color: #fff;
+  font-size: 12px;
+}
+
+.character-footer {
+  position: absolute;
+  bottom: 16px;
+}

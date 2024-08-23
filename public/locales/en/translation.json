@@ -1,0 +1,22 @@
+{
+  "input-char-placeholder": "Search a character",
+  "input-series-placeholder": "Search series",
+  "back-button": "Back",
+  "clear-button": "Clear filters",
+  "previous-button": "Previous",
+  "next-button": "Next",
+  "page-label": "Page",
+  "about-label": "About Marvel",
+  "help-label": "Help/Faqs",
+  "careers-label": "Careers",
+  "internships-label": "Internships",
+  "advertising-label": "Advertising",
+  "marvel-label": "Marvel#Com",
+  "digital-label": "Digital Comics",
+  "disney-label": "Disney+",
+  "biography-label": "Biography",
+  "comics-label": "Comics",
+  "series-label": "Series",
+  "no-description-label": "No description found.",
+  "error-label": "Whoops! Something is wrong. Try again!"
+}

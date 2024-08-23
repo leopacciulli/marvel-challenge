@@ -1,0 +1,15 @@
+.empty-state {
+  height: calc(100vh - 314px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 48px;
+}
+
+.error {
+  color: #e62429;
+}
+
+.not-found {
+  color: #151515;
+}

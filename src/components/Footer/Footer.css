@@ -1,0 +1,36 @@
+.footer {
+  height: 250px;
+  background-color: #202020;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 64px;
+  color: #fff;
+}
+
+.marvel-logo {
+  width: auto;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .footer {
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+  }
+
+  .links {
+    margin-top: 24px;
+    line-height: 32px;
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "input-char-placeholder": "Procurar um personagem",
+  "input-series-placeholder": "Procurar um personagem por serie",
+  "back-button": "Voltar",
+  "clear-button": "Limpar filtros",
+  "previous-button": "Anterior",
+  "next-button": "Próximo",
+  "page-label": "Pagina",
+  "about-label": "Sobre",
+  "help-label": "Ajuda/Faqs",
+  "careers-label": "Carreiras",
+  "internships-label": "Estágios",
+  "advertising-label": "Anúncio",
+  "marvel-label": "Marvel#Com",
+  "digital-label": "Quadrinhos digitais",
+  "disney-label": "Disney+",
+  "biography-label": "Biografia",
+  "comics-label": "Quadrinhos",
+  "series-label": "Series",
+  "no-description-label": "Nenhuma descrição encontrada.",
+  "error-label": "Whoops! Algo está errado. Tente novamente!"
+}

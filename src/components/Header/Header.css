@@ -1,0 +1,18 @@
+.header {
+  height: 64px;
+  background-color: #202020;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.marvel-logo {
+  height: 100%;
+  width: 100%;
+}
+
+.language {
+  position: absolute;
+  right: 16px;
+}
